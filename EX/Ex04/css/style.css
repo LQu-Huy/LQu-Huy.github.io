@@ -1,0 +1,66 @@
+body{
+  text-align: center;
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed;
+  
+  
+}
+
+
+/* Header **/
+header{
+  color :rgb(255, 0, 0);
+  font-weight: bold;
+}
+
+header a{
+  color :rgb(0, 255, 234);
+  
+
+}
+
+header li{
+  
+
+}
+
+header #branding{
+  font-style: italic;
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ font-style: italic;
+
+
+}
+
+header .highlight, header .current a{
+  color :rgb(0, 105, 105);
+
+
+}
+
+header a:hover{
+  color :rgb(0, 4, 255);
+
+}
+
+
+footer{
+    color :rgb(0, 255, 128);
+    text-decoration: underline;
+  
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+  color :rgb(0, 4, 255);
+  font-weight: bold;
+  }
+
